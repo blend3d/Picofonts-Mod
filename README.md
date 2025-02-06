@@ -8,4 +8,6 @@ Pimoroni Pico Display: (https://shop.pimoroni.com/products/pico-display-pack)
 
 Pimoroni Display Pack 2: (https://shop.pimoroni.com/products/pico-display-pack-2-0?variant=39374122582099)
 
+Pimoroni Display Pack 2: (https://shop.pimoroni.com/products/pico-display-pack-2-8?variant=42047194005587)
+
 ![Screenshot](media/DP28.png)
